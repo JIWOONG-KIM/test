@@ -3,7 +3,7 @@
     <UILAYOUT portrait="320,460" landscape="320,460">
         <WINDOW layout="0,0,320,460" defaultImg="#ffffff">
             <LABEL layout="100,100,auto,auto" text="Hello MOML" />
-            <WEBVIEW layout="10,60,300,300" src="http://nonmoon4.cafe24.com/android/getLocation.jsp?area_num=1"
+            <WEBVIEW layout="10,60,300,300" src="http://goooooooooooooooooooooogle.com"
         </WINDOW>
     </UILAYOUT>
 </MOML>
